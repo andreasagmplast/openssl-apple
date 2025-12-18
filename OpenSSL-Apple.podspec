@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OpenSSL-Apple'
-  s.version          = '0.0.1'
+  s.version          = '1.1.0h'
   s.summary          = 'Static OpenSSL for Apple platforms'
   s.homepage         = 'https://github.com/andreasagmplast/openssl-apple'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
